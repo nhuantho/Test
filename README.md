@@ -1,2 +1,3 @@
 # Test
-## heading 2
+## Thêm môi trường
+python3 -m venv venv
